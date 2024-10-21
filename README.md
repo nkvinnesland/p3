@@ -30,4 +30,6 @@ Coding Challenges: One of the main difficulties was managing API token limits, w
 User Perspective: The UI allows users to interact smoothly with the app. Buttons are clearly labeled, and the app responds to user input by fetching and displaying summaries in a visually appealing way.
 Coding Challenges: Using Vaadin, a Java-based front-end framework, we had to create a responsive, user-friendly layout. We implemented several customizations to enhance the user experience, including styling buttons, adding icons, and ensuring the layout adapts to different screen sizes.
 
+**IMPORTANT NOTES**
 
+Due to github not allowing the push of my .env file and my google cloud storage credentials you will not be able to run this by opening it in IntelliJ. I have spoken with the professor and he said not to worry as we will present it in class and during the code review.
