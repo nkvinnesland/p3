@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/nathankvinnesland/IdeaProjects/proj3/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/nathankvinnesland/IdeaProjects/proj3/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/nathankvinnesland/IdeaProjects/proj3/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/nathankvinnesland/IdeaProjects/proj3/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/nathankvinnesland/IdeaProjects/proj3/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/nathankvinnesland/IdeaProjects/proj3/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/nathankvinnesland/IdeaProjects/proj3/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/nathankvinnesland/IdeaProjects/proj3/src/main/frontend/generated/jar-resources",
+  "themeName": "my-app",
+  "clientServiceWorkerSource": "/Users/nathankvinnesland/IdeaProjects/proj3/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
